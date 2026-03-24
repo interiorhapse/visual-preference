@@ -1,0 +1,370 @@
+[
+  {
+    "id": "f-001",
+    "name": "송하영",
+    "group": "fromis_9",
+    "gender": "F",
+    "tag": "기존",
+    "axes": {
+      "face": "A+",
+      "bodyType": "A",
+      "skinTone": "S",
+      "vibe": "A+",
+      "performance": "A",
+      "personality": "S+",
+      "skill": "A+"
+    }
+  },
+  {
+    "id": "f-002",
+    "name": "하니",
+    "group": "NewJeans",
+    "gender": "F",
+    "tag": "기존",
+    "axes": {
+      "face": "A",
+      "bodyType": "A",
+      "skinTone": "A+",
+      "vibe": "S",
+      "performance": "A",
+      "personality": "A+",
+      "skill": "A"
+    }
+  },
+  {
+    "id": "f-003",
+    "name": "쥴리",
+    "group": "KISS OF LIFE",
+    "gender": "F",
+    "tag": "기존",
+    "axes": {
+      "face": "A",
+      "bodyType": "A",
+      "skinTone": "A",
+      "vibe": "A+",
+      "performance": "A+",
+      "personality": "A",
+      "skill": "A"
+    }
+  },
+  {
+    "id": "f-004",
+    "name": "이나경",
+    "group": "fromis_9",
+    "gender": "F",
+    "tag": "기존",
+    "axes": {
+      "face": "A+",
+      "bodyType": "A",
+      "skinTone": "A+",
+      "vibe": "A",
+      "performance": "A",
+      "personality": "A",
+      "skill": "A"
+    }
+  },
+  {
+    "id": "f-005",
+    "name": "카리나",
+    "group": "aespa",
+    "gender": "F",
+    "tag": "기존",
+    "axes": {
+      "face": "A+",
+      "bodyType": "S",
+      "skinTone": "S",
+      "vibe": "S",
+      "performance": "A+",
+      "personality": "A",
+      "skill": "A"
+    }
+  },
+  {
+    "id": "f-006",
+    "name": "이채령",
+    "group": "ITZY",
+    "gender": "F",
+    "tag": "기존",
+    "axes": {
+      "face": "B+",
+      "bodyType": "S",
+      "skinTone": "S",
+      "vibe": "A+",
+      "performance": "S+",
+      "personality": "A+",
+      "skill": "A"
+    }
+  },
+  {
+    "id": "f-007",
+    "name": "설윤",
+    "group": "VIVIZ",
+    "gender": "F",
+    "tag": "기존",
+    "axes": {
+      "face": "A+",
+      "bodyType": "A",
+      "skinTone": "A+",
+      "vibe": "A+",
+      "performance": "A",
+      "personality": "A+",
+      "skill": "A"
+    }
+  },
+  {
+    "id": "f-008",
+    "name": "슈화",
+    "group": "(G)I-DLE",
+    "gender": "F",
+    "tag": "기존",
+    "axes": {
+      "face": "A+",
+      "bodyType": "A",
+      "skinTone": "A+",
+      "vibe": "A+",
+      "performance": "A",
+      "personality": "A",
+      "skill": "B+"
+    }
+  },
+  {
+    "id": "f-009",
+    "name": "장원영",
+    "group": "IVE",
+    "gender": "F",
+    "tag": "기존",
+    "axes": {
+      "face": "A",
+      "bodyType": "S",
+      "skinTone": "A+",
+      "vibe": "S+",
+      "performance": "A",
+      "personality": "A",
+      "skill": "B+"
+    }
+  },
+  {
+    "id": "f-010",
+    "name": "채원",
+    "group": "LE SSERAFIM",
+    "gender": "F",
+    "tag": "기존",
+    "axes": {
+      "face": "A",
+      "bodyType": "A",
+      "skinTone": "S",
+      "vibe": "A+",
+      "performance": "A+",
+      "personality": "A+",
+      "skill": "A"
+    }
+  },
+  {
+    "id": "f-011",
+    "name": "나나",
+    "group": "After School",
+    "gender": "F",
+    "tag": "기존",
+    "axes": {
+      "face": "A+",
+      "bodyType": "S+",
+      "skinTone": "S",
+      "vibe": "S",
+      "performance": "A",
+      "personality": "B+",
+      "skill": "B+"
+    }
+  },
+  {
+    "id": "f-012",
+    "name": "연우",
+    "group": "MOMOLAND",
+    "gender": "F",
+    "tag": "기존",
+    "axes": {
+      "face": "S+",
+      "bodyType": "A+",
+      "skinTone": "S",
+      "vibe": "A+",
+      "performance": "B+",
+      "personality": "A",
+      "skill": "B"
+    }
+  },
+  {
+    "id": "f-013",
+    "name": "김민주",
+    "group": "IZ*ONE",
+    "gender": "F",
+    "tag": "기존",
+    "axes": {
+      "face": "S+",
+      "bodyType": "S",
+      "skinTone": "S",
+      "vibe": "A+",
+      "performance": "B",
+      "personality": "B+",
+      "skill": "B"
+    }
+  },
+  {
+    "id": "f-014",
+    "name": "유빈",
+    "group": "Wonder Girls",
+    "gender": "F",
+    "tag": "기존",
+    "axes": {
+      "face": "A",
+      "bodyType": "A",
+      "skinTone": "A+",
+      "vibe": "S",
+      "performance": "S+",
+      "personality": "A",
+      "skill": "A"
+    }
+  },
+  {
+    "id": "f-015",
+    "name": "아린",
+    "group": "OH MY GIRL",
+    "gender": "F",
+    "tag": "기존",
+    "axes": {
+      "face": "A+",
+      "bodyType": "A",
+      "skinTone": "S",
+      "vibe": "A",
+      "performance": "A",
+      "personality": "A",
+      "skill": "A"
+    }
+  },
+  {
+    "id": "f-016",
+    "name": "김유연",
+    "group": "tripleS",
+    "gender": "F",
+    "tag": "기존",
+    "axes": {
+      "face": "S",
+      "bodyType": "A+",
+      "skinTone": "S",
+      "vibe": "A+",
+      "performance": "A",
+      "personality": "A",
+      "skill": "A"
+    }
+  },
+  {
+    "id": "f-017",
+    "name": "이해리",
+    "group": "다비치",
+    "gender": "F",
+    "tag": "기존",
+    "axes": {
+      "face": "A",
+      "bodyType": "A",
+      "skinTone": "A+",
+      "vibe": "A",
+      "performance": "A",
+      "personality": "A",
+      "skill": "S+"
+    }
+  },
+  {
+    "id": "f-018",
+    "name": "전지현",
+    "group": "배우",
+    "gender": "F",
+    "tag": "기존",
+    "axes": {
+      "face": "S",
+      "bodyType": "S",
+      "skinTone": "A+",
+      "vibe": "S+",
+      "performance": "A",
+      "personality": "A",
+      "skill": "A"
+    }
+  },
+  {
+    "id": "f-019",
+    "name": "아이유",
+    "group": "솔로",
+    "gender": "F",
+    "tag": "기존",
+    "axes": {
+      "face": "A+",
+      "bodyType": "B",
+      "skinTone": "A+",
+      "vibe": "S",
+      "performance": "A",
+      "personality": "S",
+      "skill": "S+"
+    }
+  },
+  {
+    "id": "f-020",
+    "name": "아이린",
+    "group": "Red Velvet",
+    "gender": "F",
+    "tag": "기존",
+    "axes": {
+      "face": "S",
+      "bodyType": "A",
+      "skinTone": "S",
+      "vibe": "S",
+      "performance": "A",
+      "personality": "B+",
+      "skill": "A"
+    }
+  },
+  {
+    "id": "f-021",
+    "name": "류수정",
+    "group": "러블리즈",
+    "gender": "F",
+    "tag": "기존",
+    "axes": {
+      "face": "A+",
+      "bodyType": "A+",
+      "skinTone": "S",
+      "vibe": "A+",
+      "performance": "A",
+      "personality": "A",
+      "skill": "A"
+    }
+  },
+  {
+    "id": "f-022",
+    "name": "케이",
+    "group": "러블리즈",
+    "gender": "F",
+    "tag": "기존",
+    "axes": {
+      "face": "A+",
+      "bodyType": "B+",
+      "skinTone": "A+",
+      "vibe": "A+",
+      "performance": "A",
+      "personality": "A+",
+      "skill": "A+"
+    }
+  },
+  {
+    "id": "f-023",
+    "name": "레이",
+    "group": "IVE",
+    "gender": "F",
+    "tag": "기존",
+    "axes": {
+      "face": "B",
+      "bodyType": "A",
+      "skinTone": "A",
+      "vibe": "A",
+      "performance": "A",
+      "personality": "A",
+      "skill": "B+"
+    }
+  }
+]

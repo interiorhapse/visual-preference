@@ -1,0 +1,562 @@
+[
+  {
+    "id": "m-001",
+    "name": "차은우",
+    "group": "ASTRO",
+    "gender": "M",
+    "tag": "기존",
+    "axes": {
+      "face": "S+",
+      "bodyType": "S",
+      "skinTone": "S",
+      "vibe": "S",
+      "performance": "A",
+      "personality": "A",
+      "skill": "A"
+    }
+  },
+  {
+    "id": "m-002",
+    "name": "뷔",
+    "group": "BTS",
+    "gender": "M",
+    "tag": "기존",
+    "axes": {
+      "face": "S+",
+      "bodyType": "A+",
+      "skinTone": "A+",
+      "vibe": "S+",
+      "performance": "S",
+      "personality": "S",
+      "skill": "A+"
+    }
+  },
+  {
+    "id": "m-003",
+    "name": "진",
+    "group": "BTS",
+    "gender": "M",
+    "tag": "기존",
+    "axes": {
+      "face": "S+",
+      "bodyType": "A+",
+      "skinTone": "A+",
+      "vibe": "A+",
+      "performance": "A",
+      "personality": "S",
+      "skill": "A"
+    }
+  },
+  {
+    "id": "m-004",
+    "name": "정국",
+    "group": "BTS",
+    "gender": "M",
+    "tag": "기존",
+    "axes": {
+      "face": "A+",
+      "bodyType": "S",
+      "skinTone": "A+",
+      "vibe": "A+",
+      "performance": "S+",
+      "personality": "A+",
+      "skill": "S+"
+    }
+  },
+  {
+    "id": "m-005",
+    "name": "현진",
+    "group": "Stray Kids",
+    "gender": "M",
+    "tag": "기존",
+    "axes": {
+      "face": "S",
+      "bodyType": "S",
+      "skinTone": "A+",
+      "vibe": "S",
+      "performance": "S+",
+      "personality": "A+",
+      "skill": "A+"
+    }
+  },
+  {
+    "id": "m-006",
+    "name": "필릭스",
+    "group": "Stray Kids",
+    "gender": "M",
+    "tag": "기존",
+    "axes": {
+      "face": "S",
+      "bodyType": "A",
+      "skinTone": "S",
+      "vibe": "S",
+      "performance": "A+",
+      "personality": "S",
+      "skill": "A"
+    }
+  },
+  {
+    "id": "m-007",
+    "name": "민규",
+    "group": "SEVENTEEN",
+    "gender": "M",
+    "tag": "기존",
+    "axes": {
+      "face": "A+",
+      "bodyType": "S+",
+      "skinTone": "A+",
+      "vibe": "S",
+      "performance": "A+",
+      "personality": "A+",
+      "skill": "A"
+    }
+  },
+  {
+    "id": "m-008",
+    "name": "원우",
+    "group": "SEVENTEEN",
+    "gender": "M",
+    "tag": "기존",
+    "axes": {
+      "face": "S",
+      "bodyType": "S",
+      "skinTone": "A+",
+      "vibe": "S",
+      "performance": "A",
+      "personality": "A+",
+      "skill": "A"
+    }
+  },
+  {
+    "id": "m-009",
+    "name": "성훈",
+    "group": "ENHYPEN",
+    "gender": "M",
+    "tag": "기존",
+    "axes": {
+      "face": "S",
+      "bodyType": "A+",
+      "skinTone": "S",
+      "vibe": "A+",
+      "performance": "A+",
+      "personality": "A",
+      "skill": "A"
+    }
+  },
+  {
+    "id": "m-010",
+    "name": "니키",
+    "group": "ENHYPEN",
+    "gender": "M",
+    "tag": "기존",
+    "axes": {
+      "face": "A+",
+      "bodyType": "A+",
+      "skinTone": "A",
+      "vibe": "A+",
+      "performance": "S+",
+      "personality": "A",
+      "skill": "A+"
+    }
+  },
+  {
+    "id": "m-011",
+    "name": "제이",
+    "group": "ENHYPEN",
+    "gender": "M",
+    "tag": "기존",
+    "axes": {
+      "face": "A+",
+      "bodyType": "A+",
+      "skinTone": "A+",
+      "vibe": "A+",
+      "performance": "A+",
+      "personality": "A+",
+      "skill": "A"
+    }
+  },
+  {
+    "id": "m-012",
+    "name": "연준",
+    "group": "TXT",
+    "gender": "M",
+    "tag": "기존",
+    "axes": {
+      "face": "S",
+      "bodyType": "S",
+      "skinTone": "A+",
+      "vibe": "S",
+      "performance": "A+",
+      "personality": "A+",
+      "skill": "A+"
+    }
+  },
+  {
+    "id": "m-013",
+    "name": "수빈",
+    "group": "TXT",
+    "gender": "M",
+    "tag": "기존",
+    "axes": {
+      "face": "A+",
+      "bodyType": "S",
+      "skinTone": "A+",
+      "vibe": "A+",
+      "performance": "A",
+      "personality": "S",
+      "skill": "A"
+    }
+  },
+  {
+    "id": "m-014",
+    "name": "태현",
+    "group": "TXT",
+    "gender": "M",
+    "tag": "기존",
+    "axes": {
+      "face": "A+",
+      "bodyType": "A",
+      "skinTone": "A+",
+      "vibe": "A",
+      "performance": "A",
+      "personality": "A+",
+      "skill": "A+"
+    }
+  },
+  {
+    "id": "m-015",
+    "name": "재현",
+    "group": "NCT",
+    "gender": "M",
+    "tag": "기존",
+    "axes": {
+      "face": "S",
+      "bodyType": "A+",
+      "skinTone": "A+",
+      "vibe": "S",
+      "performance": "A+",
+      "personality": "A+",
+      "skill": "A"
+    }
+  },
+  {
+    "id": "m-016",
+    "name": "태용",
+    "group": "NCT",
+    "gender": "M",
+    "tag": "기존",
+    "axes": {
+      "face": "A+",
+      "bodyType": "A",
+      "skinTone": "A+",
+      "vibe": "S+",
+      "performance": "S+",
+      "personality": "A+",
+      "skill": "A+"
+    }
+  },
+  {
+    "id": "m-017",
+    "name": "도영",
+    "group": "NCT",
+    "gender": "M",
+    "tag": "기존",
+    "axes": {
+      "face": "A+",
+      "bodyType": "A+",
+      "skinTone": "A+",
+      "vibe": "A+",
+      "performance": "A",
+      "personality": "A+",
+      "skill": "S"
+    }
+  },
+  {
+    "id": "m-018",
+    "name": "산",
+    "group": "ATEEZ",
+    "gender": "M",
+    "tag": "기존",
+    "axes": {
+      "face": "A+",
+      "bodyType": "S",
+      "skinTone": "A+",
+      "vibe": "S",
+      "performance": "S+",
+      "personality": "A+",
+      "skill": "A+"
+    }
+  },
+  {
+    "id": "m-019",
+    "name": "홍중",
+    "group": "ATEEZ",
+    "gender": "M",
+    "tag": "기존",
+    "axes": {
+      "face": "A",
+      "bodyType": "A",
+      "skinTone": "A+",
+      "vibe": "A+",
+      "performance": "A+",
+      "personality": "S",
+      "skill": "A+"
+    }
+  },
+  {
+    "id": "m-020",
+    "name": "앤톤",
+    "group": "RIIZE",
+    "gender": "M",
+    "tag": "기존",
+    "axes": {
+      "face": "A+",
+      "bodyType": "S",
+      "skinTone": "A+",
+      "vibe": "A+",
+      "performance": "A",
+      "personality": "A+",
+      "skill": "A"
+    }
+  },
+  {
+    "id": "m-021",
+    "name": "원빈",
+    "group": "RIIZE",
+    "gender": "M",
+    "tag": "기존",
+    "axes": {
+      "face": "S",
+      "bodyType": "A+",
+      "skinTone": "A+",
+      "vibe": "A+",
+      "performance": "A",
+      "personality": "A",
+      "skill": "A"
+    }
+  },
+  {
+    "id": "m-022",
+    "name": "성한빈",
+    "group": "ZEROBASEONE",
+    "gender": "M",
+    "tag": "기존",
+    "axes": {
+      "face": "A+",
+      "bodyType": "A+",
+      "skinTone": "A+",
+      "vibe": "A+",
+      "performance": "S",
+      "personality": "S",
+      "skill": "A+"
+    }
+  },
+  {
+    "id": "m-023",
+    "name": "장하오",
+    "group": "ZEROBASEONE",
+    "gender": "M",
+    "tag": "기존",
+    "axes": {
+      "face": "A+",
+      "bodyType": "A",
+      "skinTone": "S",
+      "vibe": "A",
+      "performance": "A+",
+      "personality": "A+",
+      "skill": "S"
+    }
+  },
+  {
+    "id": "m-024",
+    "name": "세훈",
+    "group": "EXO",
+    "gender": "M",
+    "tag": "기존",
+    "axes": {
+      "face": "A+",
+      "bodyType": "S",
+      "skinTone": "A+",
+      "vibe": "S",
+      "performance": "A+",
+      "personality": "A",
+      "skill": "A"
+    }
+  },
+  {
+    "id": "m-025",
+    "name": "백현",
+    "group": "EXO",
+    "gender": "M",
+    "tag": "기존",
+    "axes": {
+      "face": "A+",
+      "bodyType": "A",
+      "skinTone": "A+",
+      "vibe": "A+",
+      "performance": "A+",
+      "personality": "S",
+      "skill": "S+"
+    }
+  },
+  {
+    "id": "m-026",
+    "name": "박서준",
+    "group": "배우",
+    "gender": "M",
+    "tag": "기존",
+    "axes": {
+      "face": "A+",
+      "bodyType": "S",
+      "skinTone": "A+",
+      "vibe": "S",
+      "performance": "A",
+      "personality": "A+",
+      "skill": "A+"
+    }
+  },
+  {
+    "id": "m-027",
+    "name": "송강",
+    "group": "배우",
+    "gender": "M",
+    "tag": "기존",
+    "axes": {
+      "face": "S",
+      "bodyType": "S",
+      "skinTone": "A+",
+      "vibe": "S",
+      "performance": "A",
+      "personality": "A",
+      "skill": "A"
+    }
+  },
+  {
+    "id": "m-028",
+    "name": "박보검",
+    "group": "배우",
+    "gender": "M",
+    "tag": "기존",
+    "axes": {
+      "face": "S",
+      "bodyType": "A+",
+      "skinTone": "A+",
+      "vibe": "A+",
+      "performance": "A",
+      "personality": "S",
+      "skill": "A+"
+    }
+  },
+  {
+    "id": "m-029",
+    "name": "남주혁",
+    "group": "배우",
+    "gender": "M",
+    "tag": "기존",
+    "axes": {
+      "face": "A+",
+      "bodyType": "S",
+      "skinTone": "A",
+      "vibe": "A+",
+      "performance": "A",
+      "personality": "A+",
+      "skill": "A"
+    }
+  },
+  {
+    "id": "m-030",
+    "name": "안효섭",
+    "group": "배우",
+    "gender": "M",
+    "tag": "기존",
+    "axes": {
+      "face": "S",
+      "bodyType": "A+",
+      "skinTone": "A+",
+      "vibe": "A+",
+      "performance": "A",
+      "personality": "A",
+      "skill": "A"
+    }
+  },
+  {
+    "id": "m-031",
+    "name": "이민호",
+    "group": "배우",
+    "gender": "M",
+    "tag": "기존",
+    "axes": {
+      "face": "A+",
+      "bodyType": "S",
+      "skinTone": "A+",
+      "vibe": "S",
+      "performance": "A",
+      "personality": "A",
+      "skill": "A"
+    }
+  },
+  {
+    "id": "m-032",
+    "name": "공유",
+    "group": "배우",
+    "gender": "M",
+    "tag": "기존",
+    "axes": {
+      "face": "A+",
+      "bodyType": "S",
+      "skinTone": "A",
+      "vibe": "S",
+      "performance": "A+",
+      "personality": "A+",
+      "skill": "S"
+    }
+  },
+  {
+    "id": "m-033",
+    "name": "현빈",
+    "group": "배우",
+    "gender": "M",
+    "tag": "기존",
+    "axes": {
+      "face": "A+",
+      "bodyType": "S",
+      "skinTone": "A",
+      "vibe": "S",
+      "performance": "A+",
+      "personality": "A",
+      "skill": "A+"
+    }
+  },
+  {
+    "id": "m-034",
+    "name": "변우석",
+    "group": "배우",
+    "gender": "M",
+    "tag": "기존",
+    "axes": {
+      "face": "A+",
+      "bodyType": "S",
+      "skinTone": "A+",
+      "vibe": "A+",
+      "performance": "A",
+      "personality": "A",
+      "skill": "A"
+    }
+  },
+  {
+    "id": "m-035",
+    "name": "위하준",
+    "group": "배우",
+    "gender": "M",
+    "tag": "기존",
+    "axes": {
+      "face": "A",
+      "bodyType": "A+",
+      "skinTone": "A",
+      "vibe": "A+",
+      "performance": "A+",
+      "personality": "A",
+      "skill": "A+"
+    }
+  }
+]
