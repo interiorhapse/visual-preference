@@ -2,7 +2,6 @@ import { useState, useCallback } from 'react'
 import { useStore } from '../../store/useStore'
 import { buildShareURL } from '../../services/share'
 import type { ShareData, Gender, Tier } from '../../types'
-import { TIER_ORDER } from '../../types'
 
 interface ShareButtonProps {
   visible?: boolean

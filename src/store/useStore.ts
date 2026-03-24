@@ -12,7 +12,6 @@ import type {
   FunctionTab,
   Tier,
   AppData,
-  ShareData,
 } from '../types'
 import { SCHEMA_VERSION } from '../utils/constants'
 import { analyzePreferences } from '../services/analysis'

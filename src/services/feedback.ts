@@ -75,7 +75,6 @@ export function adjustWeights(
 
   // Pick top MIN_SAME_AXIS_FOR_ADJUSTMENT axes to adjust
   const toAdjust = sorted.slice(0, MIN_SAME_AXIS_FOR_ADJUSTMENT).map((a) => a.key)
-  const toCompensate = sorted.slice(MIN_SAME_AXIS_FOR_ADJUSTMENT).map((a) => a.key)
 
   const newWeights = { ...currentWeights }
 

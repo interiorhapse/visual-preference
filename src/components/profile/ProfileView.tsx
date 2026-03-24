@@ -1,11 +1,9 @@
 import { useRef } from 'react'
 import { useStore } from '../../store/useStore'
-import type { Gender } from '../../types'
 import GenderComparison from './GenderComparison'
 import SyncTrend from './SyncTrend'
 
 export default function ProfileView() {
-  const persons = useStore((s) => s.persons)
   const placements = useStore((s) => s.placements)
   const predictions = useStore((s) => s.predictions)
   const sessions = useStore((s) => s.sessions)
@@ -30,9 +28,6 @@ export default function ProfileView() {
             100,
         )
       : 0
-
-  // Group predictions by session for trend
-  const sessionMap = new Map(sessions.map((s) => [s.id, s]))
 
   function handleExport() {
     const data = exportData()

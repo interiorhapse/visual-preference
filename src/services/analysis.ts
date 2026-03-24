@@ -7,7 +7,7 @@ import type {
   AxisKey,
   Tier,
 } from '../types'
-import { AXIS_KEYS, AXIS_LABELS, TIER_ORDER } from '../types'
+import { AXIS_KEYS, AXIS_LABELS } from '../types'
 import { gradeToValue } from '../utils/grade'
 import { MIN_S_FOR_CLUSTER, MAX_CLUSTERS } from '../utils/constants'
 
@@ -194,7 +194,7 @@ export function generateArchetype(weights: Record<string, number>): Archetype {
 
 function labelCluster(
   members: Person[],
-  axisWeights: Record<string, number>,
+  _axisWeights: Record<string, number>,
 ): { name: string; dominantAxes: string[] } {
   // Find top 2 axes by average score within cluster
   const axisAvgs = AXIS_KEYS.map((k) => {

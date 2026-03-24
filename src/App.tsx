@@ -1,6 +1,5 @@
 import { useEffect } from 'react'
 import { useStore } from './store/useStore'
-import { parseShareURL } from './services/share'
 import Header from './components/layout/Header'
 import GenderTabs from './components/layout/GenderTabs'
 import FunctionTabs from './components/layout/FunctionTabs'

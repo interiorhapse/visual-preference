@@ -81,7 +81,7 @@ export default function SyncTrend({ predictions, sessions }: Props) {
               tickFormatter={(v: number) => `${v}%`}
             />
             <Tooltip
-              formatter={(value: number) => [`${value}%`, '적중률']}
+              formatter={(value) => [`${value}%`, '적중률']}
               contentStyle={{
                 borderRadius: 8,
                 border: '1px solid #E4E4E7',

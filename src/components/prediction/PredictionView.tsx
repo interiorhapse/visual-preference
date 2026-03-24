@@ -1,7 +1,6 @@
 import { useState } from 'react'
 import { useStore } from '../../store/useStore'
-import type { Gender, Tier } from '../../types'
-import { TIER_COLORS } from '../../types'
+import type { Gender } from '../../types'
 import { MIN_PLACEMENT_FOR_PREDICTION } from '../../utils/constants'
 import PredictionCard from './PredictionCard'
 import FeedbackSummary from './FeedbackSummary'

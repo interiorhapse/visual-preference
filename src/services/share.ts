@@ -1,6 +1,6 @@
 import LZString from 'lz-string'
-import type { ShareData, Tier } from '../types'
-import { TIER_ORDER, AXIS_KEYS } from '../types'
+import type { ShareData } from '../types'
+import { TIER_ORDER } from '../types'
 import { URL_MAX_LENGTH } from '../utils/constants'
 
 /**

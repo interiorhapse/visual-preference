@@ -8,7 +8,7 @@ interface FormulaCardProps {
   visible?: boolean
 }
 
-export default function FormulaCard({ formula, archetype, weights, visible = true }: FormulaCardProps) {
+export default function FormulaCard({ archetype, weights, visible = true }: FormulaCardProps) {
   // Top 3 weights for inline display
   const top3 = Object.entries(weights)
     .sort((a, b) => b[1] - a[1])

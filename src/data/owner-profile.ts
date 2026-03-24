@@ -1,7 +1,7 @@
 // 사용자 프로파일 (그라운드 트루스) — 송제성
 // R1 배치 39명 + 확정 가중치 + 클러스터
 
-import type { Tier, AnalysisResult, Archetype, Cluster } from '../types'
+import type { Tier, Archetype, Cluster } from '../types'
 import { generateArchetype } from '../services/analysis'
 
 // R1 배치: 인물명 → 티어 (성별 전부 F)

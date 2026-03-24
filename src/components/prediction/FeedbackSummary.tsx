@@ -1,5 +1,5 @@
 import { useStore } from '../../store/useStore'
-import type { Prediction, Tier } from '../../types'
+import type { Prediction } from '../../types'
 import { TIER_COLORS } from '../../types'
 
 interface Props {

@@ -1,4 +1,4 @@
-import { AXIS_KEYS, AXIS_LABELS, type AxisKey } from '../../types'
+import { AXIS_KEYS, AXIS_LABELS } from '../../types'
 
 interface Props {
   maleWeights: Record<string, number> | null

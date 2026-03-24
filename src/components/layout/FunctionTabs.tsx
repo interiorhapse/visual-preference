@@ -1,7 +1,8 @@
+import type React from 'react'
 import { useStore } from '../../store/useStore'
 import type { FunctionTab } from '../../types'
 
-const TABS: { value: FunctionTab; label: string; icon: (active: boolean) => JSX.Element }[] = [
+const TABS: { value: FunctionTab; label: string; icon: (active: boolean) => React.ReactNode }[] = [
   {
     value: 'placement',
     label: '배치',

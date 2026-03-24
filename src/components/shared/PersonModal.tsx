@@ -3,7 +3,6 @@ import { useStore } from '../../store/useStore'
 import type { Person, Gender, PersonTag, PersonAxes, Grade, AxisKey } from '../../types'
 import { AXIS_KEYS, AXIS_LABELS } from '../../types'
 import { GRADES } from '../../utils/grade'
-import { searchPersons } from '../../services/search'
 import peopleDb from '../../data/people-db.json'
 
 interface Props {
