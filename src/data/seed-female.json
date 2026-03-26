@@ -366,5 +366,69 @@
       "personality": "A",
       "skill": "B+"
     }
+  },
+  {
+    "id": "f-024",
+    "name": "에이나",
+    "group": "Hearts2Hearts",
+    "gender": "F",
+    "tag": "추가",
+    "axes": {
+      "face": "S",
+      "bodyType": "S",
+      "skinTone": "A",
+      "vibe": "A+",
+      "performance": "B+",
+      "personality": "A+",
+      "skill": "B+"
+    }
+  },
+  {
+    "id": "f-025",
+    "name": "이안",
+    "group": "Hearts2Hearts",
+    "gender": "F",
+    "tag": "추가",
+    "axes": {
+      "face": "S",
+      "bodyType": "A",
+      "skinTone": "A+",
+      "vibe": "S",
+      "performance": "A+",
+      "personality": "A",
+      "skill": "B+"
+    }
+  },
+  {
+    "id": "f-026",
+    "name": "스텔라",
+    "group": "Hearts2Hearts",
+    "gender": "F",
+    "tag": "추가",
+    "axes": {
+      "face": "A+",
+      "bodyType": "A",
+      "skinTone": "A",
+      "vibe": "A",
+      "performance": "B+",
+      "personality": "B+",
+      "skill": "A+"
+    }
+  },
+  {
+    "id": "f-027",
+    "name": "다니엘",
+    "group": "NewJeans",
+    "gender": "F",
+    "tag": "추가",
+    "axes": {
+      "face": "S+",
+      "bodyType": "C",
+      "skinTone": "A+",
+      "vibe": "B+",
+      "performance": "A",
+      "personality": "A",
+      "skill": "A"
+    }
   }
 ]

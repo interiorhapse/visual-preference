@@ -1,5 +1,5 @@
 // 사용자 프로파일 (그라운드 트루스) — 송제성
-// R1 배치 39명 + 확정 가중치 + 클러스터
+// R1 배치 39명 + R2 추가 4명 + 확정 가중치 + 클러스터
 
 import type { Tier, Archetype, Cluster } from '../types'
 import { generateArchetype } from '../services/analysis'
@@ -17,7 +17,8 @@ export const OWNER_PLACEMENTS: Record<string, Tier> = {
   '유빈': 'S',
   '설윤': 'S',
   '하니': 'S',
-  // A (10명)
+  '에이나': 'S',
+  // A (11명)
   '쥴리': 'A',
   '이나경': 'A',
   '아이린': 'A',
@@ -27,9 +28,10 @@ export const OWNER_PLACEMENTS: Record<string, Tier> = {
   '이해리': 'A',
   '슈화': 'A',
   '전지현': 'A',
+  '이안': 'A',
   // 조유리 — people-db에서 찾아야 함
-  // B (2명)
-  // 박보영, 츄 — people-db에서 찾아야 함
+  // B (4명)
+  // 박보영, 츄, 스텔라, 다니엘 — people-db에서 찾아야 함
   // C (4명)
   '아이유': 'C',
   // 한지민, 강민경, 윈터 — people-db에서 찾아야 함
@@ -39,7 +41,9 @@ export const OWNER_PLACEMENTS: Record<string, Tier> = {
 export const OWNER_EXTRA_PLACEMENTS: Record<string, { tier: Tier; group: string }> = {
   '조유리': { tier: 'A', group: 'IZ*ONE' },
   '박보영': { tier: 'B', group: '배우' },
-  '츄': { tier: 'B', group: 'Lovelyz' },
+  '츄': { tier: 'B', group: 'LOONA' },
+  '스텔라': { tier: 'B', group: 'Hearts2Hearts' },
+  '다니엘': { tier: 'B', group: 'NewJeans' },
   '한지민': { tier: 'C', group: '배우' },
   '강민경': { tier: 'C', group: '다비치' },
   '윈터': { tier: 'C', group: 'aespa' },
@@ -88,13 +92,13 @@ export const OWNER_CLUSTERS: Cluster[] = [
 
 // 클러스터 멤버 매핑 (이름 기반, 런타임에 ID로 변환)
 export const CLUSTER_MEMBERS: Record<string, string[]> = {
-  '비주얼 총합형': ['카리나', '김민주', '연우', '나나'],
+  '비주얼 총합형': ['카리나', '김민주', '연우', '나나', '에이나'],
   '소프트 밸런스형': ['송하영', '설윤', '채원', '하니'],
   '퍼포먼스 보정형': ['이채령', '유빈'],
 }
 
 // 취향 공식
-export const OWNER_FORMULA = '"전부 괜찮아야 하는 사람" — 얼굴 + 체형 + 피부톤 총합 중심, 성격이 극복 변수'
+export const OWNER_FORMULA = '"전부 괜찮아야 하는 사람" — 얼굴이 문턱(A+↑), 슬렌더 체형(뼈마름X), 고유 매력축 1개↑. 얼굴만 예쁘면 B.'
 
 // 아키타입 (가중치 기반 자동 생성)
 export const OWNER_ARCHETYPE: Archetype = generateArchetype(OWNER_WEIGHTS_7AXIS)
